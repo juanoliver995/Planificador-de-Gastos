@@ -443,7 +443,7 @@ body .modal {
     text-align: right;
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 768px) {
     .filtros .campo {
         gap: 1rem;
     }
